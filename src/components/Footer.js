@@ -22,7 +22,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-2 text-sm text-slate-400">
               <li><a href="#features" className="hover:text-white">Features</a></li>
               <li><a href="#sports" className="hover:text-white">Sports</a></li>
-              <li><a href="#download" className="hover:text-white">Download</a></li>
+              <li><a href="#download" className="hover:text-white">Launch Status</a></li>
             </ul>
           </div>
 

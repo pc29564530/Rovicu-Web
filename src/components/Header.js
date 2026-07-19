@@ -7,7 +7,7 @@ const links = [
   { href: "#features", label: "Features" },
   { href: "#sports", label: "Sports" },
   { href: "#community", label: "Community" },
-  { href: "#download", label: "Download" },
+  { href: "#download", label: "Launch Status" },
 ];
 
 export default function Header() {
@@ -37,7 +37,7 @@ export default function Header() {
           href="#download"
           className="hidden rounded-full bg-gradient-to-r from-sky-400 to-indigo-400 px-5 py-2 text-sm font-semibold text-slate-950 transition hover:opacity-90 md:inline-block"
         >
-          Get the app
+          Get Early Access
         </a>
 
         <button
