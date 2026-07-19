@@ -134,7 +134,7 @@ export default function TermsOfService() {
         <h2>12. Contact Us</h2>
         <p>
           Questions about these Terms can be sent to{" "}
-          <a href="mailto:hello@rovicu.com">hello@rovicu.com</a>.
+          <a href="mailto:contact@rovicu.com">contact@rovicu.com</a>.
         </p>
       </section>
     </LegalLayout>

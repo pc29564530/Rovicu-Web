@@ -105,7 +105,7 @@ export default function PrivacyPolicy() {
         <p>
           If you have questions about this Privacy Policy or want to exercise your
           data rights, contact us at{" "}
-          <a href="mailto:hello@rovicu.com">hello@rovicu.com</a>.
+          <a href="mailto:contact@rovicu.com">contact@rovicu.com</a>.
         </p>
       </section>
     </LegalLayout>

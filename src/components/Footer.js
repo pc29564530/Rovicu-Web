@@ -29,7 +29,7 @@ export default function Footer() {
           <div>
             <h4 className="text-sm font-semibold text-white">Company</h4>
             <ul className="mt-4 space-y-2 text-sm text-slate-400">
-              <li><a href="mailto:hello@rovicu.com" className="hover:text-white">Contact</a></li>
+              <li><a href="mailto:contact@rovicu.com" className="hover:text-white">Contact</a></li>
               <li><a href="/privacy" className="hover:text-white">Privacy Policy</a></li>
               <li><a href="/terms" className="hover:text-white">Terms of Service</a></li>
             </ul>
