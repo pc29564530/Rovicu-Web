@@ -2,7 +2,7 @@ const sports = [
   {
     emoji: "🏏",
     title: "Cricket",
-    desc: "Full scorecards, overs, partnerships, and tournament-level batting & bowling stats.",
+    desc: "Full scorecards, partnerships, and tournament-level batting & bowling stats.",
   },
   {
     emoji: "⚽",
