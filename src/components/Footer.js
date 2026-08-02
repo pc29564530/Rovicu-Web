@@ -32,6 +32,7 @@ export default function Footer() {
               <li><a href="mailto:contact@rovicu.com" className="hover:text-white">Contact</a></li>
               <li><a href="/privacy" className="hover:text-white">Privacy Policy</a></li>
               <li><a href="/terms" className="hover:text-white">Terms of Service</a></li>
+              <li><a href="/delete-account" className="hover:text-white">Delete Account</a></li>
             </ul>
           </div>
         </div>
